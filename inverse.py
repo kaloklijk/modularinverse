@@ -8,4 +8,4 @@ def inverse(a, b):
 
 if __name__ == "__main__":
   a, b = int(input("write down a for a^-1(mod b)\n")), int(input("write down b for a^-1(mod b)\n"))
-  print(f"The result is {inverse(a, b)}")
+  print(f"The result is {inverse(a%b, b)}")
