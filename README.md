@@ -6,7 +6,10 @@ and n = -b(mod a)
 
 to compute the result of a^-1(mod b)
 
-In order to run the program,
+
+
+
+![#f03c15]In order to run the program, `#f03c15`
 
 please download matplotlib and networkx using
 
