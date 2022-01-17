@@ -9,7 +9,10 @@ to compute the result of a^-1(mod b)
 
 
 
-- ![#f03c15]In order to run the program, `#f03c15`
+'''diff
+- In order to run the program, 
+
+'''
 
 please download matplotlib and networkx using
 
