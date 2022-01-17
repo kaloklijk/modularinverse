@@ -1,11 +1,4 @@
 
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
 # modularinverse
 
 This program compute modular inverse using a* a^-1 (mod b) = n*b + 1
