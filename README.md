@@ -32,6 +32,6 @@ Input a = 11, b = 1132,
 
 ouput = 103
 
-with the values of a, b changing in the equation as
+
 
 
