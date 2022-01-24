@@ -1,6 +1,6 @@
 '''
 The new algorithm developed by Li Ka Lok for computing modular multiplicative inverses and show
-the computation from step to step using networkx directed graphs
+the computation step by step using networkx directed graphs
 '''
 ## import the required library
 import sys
